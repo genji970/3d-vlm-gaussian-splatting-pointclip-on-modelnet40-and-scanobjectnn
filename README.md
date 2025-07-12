@@ -13,10 +13,11 @@
 
 # How to use
 
-1) `git clone this repo`
-2) `pip install -r requirements.txt`
-3) run `inference.py`
-4) `if it's first time running this model, then in inference.py, set exist_flag = True`
+1) `python==3.10` 
+2) `git clone this repo`
+3) `pip install -r requirements.txt`
+4) run `inference.py`
+5) `if it's first time running this model, then in inference.py, set exist_flag = True`
 
 
 # additional
