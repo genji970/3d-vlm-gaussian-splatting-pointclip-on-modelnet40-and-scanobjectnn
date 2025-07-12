@@ -15,7 +15,8 @@
 
 1) `git clone this repo`
 2) `pip install -r requirements.txt`
-3) `if it's first time running this model, then in inference.py, set exist_flag = True`
+3) run `inference.py`
+4) `if it's first time running this model, then in inference.py, set exist_flag = True`
 
 
 # additional
