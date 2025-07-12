@@ -16,9 +16,10 @@
 1) `python==3.10` 
 2) `git clone this repo`
 3) `pip install -r requirements.txt`
-4) run `inference.py`
-5) `if it's first time running this model, then in config.py, set exist_flag = True`
-6) `if you want to do inference on more dataset, you can set max_samples in config.py`
+4) `cd 3d-vlm-gaussian-splatting-classification-on-modelnet40`
+5) `python -m inference.py`
+6) `if it's first time running this model, then in config.py, set exist_flag = True`
+7) `if you want to do inference on more dataset, you can set max_samples in config.py`
 
 
 # additional
