@@ -12,3 +12,10 @@
 1) `git clone this repo`
 2) `pip install -r requirements.txt`
 3) `if it's first time running this model, then in inference.py, set exist_flag = True`
+
+
+# additional
+
+1) `I will make config.py to set hyperparameters easily later`
+2) `torch in requirements.txt is cpu only. change it if you want to use cuda`
+3) `sample test accuracy is 70% but overall performance is 95 for this pth`
