@@ -152,6 +152,11 @@ def convert_modelnet40_h5_to_npy(h5_dir, save_dir, shape_names_path, max_samples
     print(f"✅ Saved {count} samples.")
 
 
+import torch
+import torch.nn.functional as F
 
+def safe_sigmoid(x, clamp_min=-30.0, clamp_max=30.0):
+    x_clamped = torch.clamp(x, min=clamp_min, max=clamp_max)
+    return torch.sigmoid(x_clamped)
 
 
