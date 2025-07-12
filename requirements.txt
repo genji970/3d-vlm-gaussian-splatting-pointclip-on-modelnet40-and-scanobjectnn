@@ -1,0 +1,7 @@
+open3d
+h5py
+git+https://github.com/openai/CLIP.git
+trimesh
+numpy
+torch
+matplotlib
