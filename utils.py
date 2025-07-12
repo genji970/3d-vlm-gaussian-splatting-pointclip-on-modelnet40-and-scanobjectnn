@@ -111,7 +111,9 @@ def load_classnames(txt_path):
         classnames = [line.strip() for line in f.readlines()]
     return classnames
 
-def convert_modelnet40_h5_to_npy(h5_dir, save_dir, shape_names_path, max_samples=100):
+from config import *
+
+def convert_modelnet40_h5_to_npy(h5_dir, save_dir, shape_names_path, max_samples=10):
     import h5py
     os.makedirs(save_dir, exist_ok=True)
     classnames = load_classnames(shape_names_path)

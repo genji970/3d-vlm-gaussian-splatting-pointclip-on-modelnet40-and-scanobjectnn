@@ -11,6 +11,7 @@ from projector_func import *
 from data import *
 from clip_preprocess import *
 from inference_func import *
+from config import *
 
 
 current_dir = os.path.dirname(__file__)
@@ -18,14 +19,14 @@ checkpoint = os.path.join(current_dir , 'best_model_0.9558.pth')
 h5_dir = os.path.join(current_dir , 'modelnet40_ply_hdf5_2048')
 save_dir = os.path.join(current_dir , 'modelnet40_npy')
 
-exist_flag = False
+
 #####################
 # save modelnet40_ply_hdf5_2048 to modelnet40_npy if npy does not exist
-if exist_flag:
+if config['exist_flag']:
     h5_dir = h5_dir
     save_dir = save_dir
     shape_names_path = os.path.join(h5_dir, "shape_names.txt")
-    convert_modelnet40_h5_to_npy(h5_dir, save_dir, shape_names_path,max_samples=10)
+    convert_modelnet40_h5_to_npy(h5_dir, save_dir, shape_names_path,max_samples=config['max_samples'])
 #####################
 
 
