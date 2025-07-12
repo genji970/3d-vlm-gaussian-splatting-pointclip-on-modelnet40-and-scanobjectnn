@@ -24,7 +24,7 @@
 1) `I will make config.py to set hyperparameters easily later`
 2) `torch in requirements.txt is cpu only. change it if you want to use cuda`
 3) `sample test accuracy is 70% but overall performance is 95 for this pth`
-4) you can run this even in only cpu version
+4) you can run this even in only cpu env
 
 citation : Z. Wu, S. Song, A. Khosla, F. Yu, L. Zhang, X. Tang and J. Xiao
 3D ShapeNets: A Deep Representation for Volumetric Shapes
