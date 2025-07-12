@@ -24,9 +24,10 @@
 # additional
 
 1) `torch in requirements.txt is cpu only. change it if you want to use cuda`
-2) Delete torch in requirements.txt and do `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu<version you want e.g) 118 if cuda 11.8>`
-3) `sample test accuracy is 70% but overall performance is 95 for this pth`
-4) you can run this even in only cpu env
+2) if you want to use cuda version, delete torch in requirements.txt and do (3)
+3) `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu<version you want e.g) 118 if cuda 11.8>`
+4) `sample test accuracy is 70% but overall performance is 95 for this pth`
+5) you can run this even in only cpu env
 
 
 # citation 
