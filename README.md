@@ -6,7 +6,7 @@
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/e8979f66-3afb-4717-a170-d8b0ba4eb520" />
 
 ### Other models's performance from paperswithcode ###
-<img width="453" height="698" alt="image" src="https://github.com/user-attachments/assets/19f7f657-2cff-47ac-af29-1223f065617e" />
+<img width="1785" height="567" alt="Image" src="https://github.com/user-attachments/assets/f52f4cba-f5fa-493a-a978-565d264e1d34" />
 
 ### Best training result ###
 <img width="453" height="698" alt="Image" src="https://github.com/user-attachments/assets/927e9ad8-2b38-49e8-b3f1-78d7bab4fa18" />
