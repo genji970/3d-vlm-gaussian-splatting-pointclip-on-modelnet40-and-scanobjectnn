@@ -7,7 +7,7 @@ Projecting (added gaussian splatting) 3d pointcloud dataset into 2d image and pu
 ### Other models's performance from paperswithcode ###
 <img width="1785" height="567" alt="Image" src="https://github.com/user-attachments/assets/f52f4cba-f5fa-493a-a978-565d264e1d34" />
 
-### Best training result ###
+### Best training, validation result ###
 <img width="453" height="698" alt="Image" src="https://github.com/user-attachments/assets/927e9ad8-2b38-49e8-b3f1-78d7bab4fa18" />
 
 # How to use
