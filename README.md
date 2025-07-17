@@ -29,6 +29,8 @@ Projecting (added gaussian splatting) 3d pointcloud dataset into 2d image and pu
 4) `sample test accuracy is 70% and overall validation performance for test datasrt is 95 for this pth`
 5) you can run this even in only cpu env
 
+# Next
+test result on scanobjectnn
 
 # citation 
 Z. Wu, S. Song, A. Khosla, F. Yu, L. Zhang, X. Tang and J. Xiao
