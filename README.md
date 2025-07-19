@@ -7,8 +7,18 @@ Projecting (added gaussian splatting) 3d pointcloud dataset into 2d image and pu
 ### Other models's performance from paperswithcode ###
 <img width="1785" height="567" alt="Image" src="https://github.com/user-attachments/assets/f52f4cba-f5fa-493a-a978-565d264e1d34" />
 
-### Best training, validation result ###
+### Best training, validation result modelnet40 16 shot ###
 <img width="453" height="698" alt="Image" src="https://github.com/user-attachments/assets/927e9ad8-2b38-49e8-b3f1-78d7bab4fa18" />
+
+### Best training, validation result modelnet40 4 shot ###
+<img width="488" height="802" alt="Image" src="https://github.com/user-attachments/assets/fbe61f81-9618-4c92-8575-9d56c705b834" />
+
+### Best training, validation result scanobjectnn 16 shot ###
+<img width="678" height="501" alt="Image" src="https://github.com/user-attachments/assets/198759f4-bd1c-487f-aa28-2e9385f77379" />
+
+##3 Best training, validation result scanobjectnn 4 shot ###
+<img width="600" height="485" alt="Image" src="https://github.com/user-attachments/assets/87ae7541-b5bb-4822-844e-fe547b277a65" />
+
 
 # How to use
 
