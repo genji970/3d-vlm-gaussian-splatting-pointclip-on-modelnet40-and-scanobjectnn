@@ -47,3 +47,5 @@ Z. Wu, S. Song, A. Khosla, F. Yu, L. Zhang, X. Tang and J. Xiao
 3D ShapeNets: A Deep Representation for Volumetric Shapes
 Proceedings of 28th IEEE Conference on Computer Vision and Pattern Recognition (CVPR2015)
 Oral Presentation ·  3D Deep Learning Project Webpage
+
+scanobjectnn :
